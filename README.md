@@ -8,3 +8,11 @@ basic programming with java, will start with printing java and then variables,co
 4)is number prime.java
 
 4-1)is a prime1.java
+
+5)print all prime till n.java
+
+5-1)print all prime till n.java
+
+6)Print Fibonacci Numbers Till N.java
+
+6-1)Print Fibonacci Numbers Till N.java
