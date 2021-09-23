@@ -1,2 +1,3 @@
 # coding-with-java
 basic programming with java, will start with printing java and then variables,conditions etc....
+1st code is printing hello world (hello.java)
