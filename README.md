@@ -1,5 +1,6 @@
 # coding-with-java
-basic programming with java, will start with printing java and then variables,conditions etc....
+basic programming with java, i'm uploading the programm i'm doing.
+Will start with printing java and then variables,conditions etc....
 1st code is printing hello world (hello.java)
 2)print Z.java
 
